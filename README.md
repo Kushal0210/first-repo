@@ -1,2 +1,3 @@
 # first-repo
-My first Repo
+My first Repository as part of devOps Training
+
