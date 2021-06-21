@@ -22,7 +22,8 @@ git status --> to check the status of the file
   
 git push --> to push the local changes to the remote repository
   
-  
+
+  rm -rf first-repo --> TO FORCEFULLY REMOVE A REPOSITORY
 
 
 
